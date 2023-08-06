@@ -40,7 +40,8 @@ CUSTOMER MODULE API:
 5. To get booking history-get('http://localhost:1000/getHistory')
 
 OWNER MODULE:
-![Screenshot (392)](https://github.com/perinbaraj777/BikeServiceApp/assets/127020379/3d00881e-005f-4189-bfa6-16fd911429fd)
+![Screenshot (392)](https://github.com/perinbaraj777/BikeServiceAppTask/assets/127020379/00892267-8f2e-4b75-b69a-efddb564fe62)
+
 
 
 API AND OUTPUTS IN OWNER MODULE:
