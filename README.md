@@ -42,6 +42,7 @@ CUSTOMER MODULE API:
 OWNER MODULE:
 ![Screenshot (392)](https://github.com/perinbaraj777/BikeServiceApp/assets/127020379/3d00881e-005f-4189-bfa6-16fd911429fd)
 
+
 API AND OUTPUTS IN OWNER MODULE:
 view all booking-'http://localhost:1000/getAllBookings'
 
