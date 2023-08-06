@@ -47,13 +47,12 @@ OWNER MODULE:
 API AND OUTPUTS IN OWNER MODULE:
 view all booking-'http://localhost:1000/getAllBookings'
 
-![Screenshot (393)](https://github.com/perinbaraj777/BikeServiceAppTask/assets/127020379/26b55dda-f50b-4170-91c7-4e65d6ec3878)
+
 ![Screenshot (393)](https://github.com/perinbaraj777/BikeServiceAppTask/assets/127020379/26b55dda-f50b-4170-91c7-4e65d6ec3878)
 
  
  view pending booking-http://localhost:1000/getPendingBookings
-![Screenshot (394)](https://github.com/perinbaraj777/BikeServiceApp/assets/127020379/a65fde99-2735-4f68-b9d1-33fb1c342da6)
-
+![Screenshot (394)](https://github.com/perinbaraj777/BikeServiceAppTask/assets/127020379/a038b739-b817-4dd5-886d-d4b2a315eec0)
 CUSTOMER MODULE:
 ![Screenshot (395)](https://github.com/perinbaraj777/BikeServiceApp/assets/127020379/93b93df2-92a7-433b-b1ef-39806180c6ab)
 
