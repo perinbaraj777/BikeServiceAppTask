@@ -56,7 +56,8 @@ view all booking-'http://localhost:1000/getAllBookings'
 CUSTOMER MODULE:
 ![Screenshot (395)](https://github.com/perinbaraj777/BikeServiceAppTask/assets/127020379/1980994c-4c78-43fd-9192-fb1f3ddc224d)
 view history of the booking-http://localhost:1000/getHistory
-![Screenshot (396)](https://github.com/perinbaraj777/BikeServiceApp/assets/127020379/9d04083c-3530-4fd1-81b6-8225126cd71c)
+![Screenshot (394)](https://github.com/perinbaraj777/BikeServiceAppTask/assets/127020379/4dd31ff8-d348-497d-abab-623ee85bfcf2)
+
 
 
 MAIL OF BOOKING DETAILS AND UPDATE STATUS UPDATE
