@@ -60,8 +60,7 @@ view history of the booking-http://localhost:1000/getHistory
 
 
 MAIL OF BOOKING DETAILS AND UPDATE STATUS UPDATE
-![Screenshot (397)](https://github.com/perinbaraj777/BikeServiceApp/assets/127020379/2822daee-5217-480d-a6f2-c65a24bfef66)
-
+![Screenshot (397)](https://github.com/perinbaraj777/BikeServiceAppTask/assets/127020379/39d13fa4-17f2-49c3-b9f4-5bee580737d0)
 
 
 LANGAUGES:
