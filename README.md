@@ -54,8 +54,7 @@ view all booking-'http://localhost:1000/getAllBookings'
  view pending booking-http://localhost:1000/getPendingBookings
 ![Screenshot (394)](https://github.com/perinbaraj777/BikeServiceAppTask/assets/127020379/a038b739-b817-4dd5-886d-d4b2a315eec0)
 CUSTOMER MODULE:
-![Screenshot (395)](https://github.com/perinbaraj777/BikeServiceApp/assets/127020379/93b93df2-92a7-433b-b1ef-39806180c6ab)
-
+![Screenshot (395)](https://github.com/perinbaraj777/BikeServiceAppTask/assets/127020379/1980994c-4c78-43fd-9192-fb1f3ddc224d)
 view history of the booking-http://localhost:1000/getHistory
 ![Screenshot (396)](https://github.com/perinbaraj777/BikeServiceApp/assets/127020379/9d04083c-3530-4fd1-81b6-8225126cd71c)
 
