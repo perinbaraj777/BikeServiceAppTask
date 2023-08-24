@@ -33,7 +33,8 @@ var transporter = nodeMailer.createTransport({
     port: 465,
     secure: true,
     auth:{
-        user:'sivasekar7737@gmail.com',
+            //Enter the mail id  from which the booking details needed to be send to the owners mail id 
+        user:'sivasekar7737@gmail.com', 
         pass:'fxxyiheilxgsmeml'
     }
 }); 
@@ -83,8 +84,9 @@ add.post('/registerService',(request,response)=>{
         }
         //compose the mail content  to send to recepitent when this api is trigred
             var mailOptions ={
-                from:'sivasekar7737@gmail.com',
-                to:'perinbaraj777@gmail.com',   //considered as the mailid of the owner 
+                from:'sivasekar7737@gmail.com', 
+                 //considered as the mailid of the owner 
+                to:'perinbaraj777@gmail.com',  
                 subject:'checking the nodemailer in nodejs',
                 html:`<p>booking details:<br>customerid:${customerId}<br>Services:${Services}<br>Expected delivery date:${serviceDate}</p>`,
                 
